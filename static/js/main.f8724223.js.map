@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/main.f8724223.js","mappings":"AAAAA,QAAQC,IAAI,OACZD,QAAQC,IAAI","sources":["index.js"],"sourcesContent":["console.log('2+5');\nconsole.log(2 + 5);\n"],"names":["console","log"],"sourceRoot":""}
